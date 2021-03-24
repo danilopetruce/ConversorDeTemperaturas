@@ -14,7 +14,7 @@ namespace ConversorDeTemperaturas
             double c, f, k;
 
             Console.WriteLine("##### CONVERSOR DE TEMPERATURAS #####");
-            Console.WriteLine("Insira a temperatura em Celsiusº: ");
+            Console.WriteLine("Insira a temperatura em Celsius: ");
             c = double.Parse(Console.ReadLine());
             Console.WriteLine("--------------------------------------");
 
